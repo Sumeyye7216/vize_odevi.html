@@ -3,45 +3,43 @@ body {
     line-height: 1.5;
     margin: 20;
     padding: 10;
-    background-color:rgb(249, 214, 214);
+    background-color:rgba(123, 238, 232, 0.521);
 }
+
+.renkli {
+    background-color: #f5ba6e64;
+}
+
+.ortada {
+    text-align: center; 
+}
+
+.kenarda {
+    text-align: left;
+}    
 
 h1 {
-    color:firebrick;
-    margin: 50px;
+    color: rgb(34, 34, 129)
 }
-
-h2 {
+.purple-title {
     color:purple;
-    margin: 50px
+    font-size:x-large;
+    font-style:normal;
 }
 
-h3 {
-    color:blue;
-    margin: 25 px;
+.kırmızı {
+    color: red;
+    margin:20px;
 }
 
-h4 {
-    color:darkmagenta;
-    margin: 25px;
+.ozel-stil {
+    font-weight: bold;
+    font-style: italic; 
 }
 
-h5 {
-    color:darkolivegreen;
-    margin: 25px;
+.container {
+    text-align: center;
 }
-
-h6 {
-    color:darkred;
-    margin: 25px
-}
-
-p {
-    color:red;
-    margin:25px
-
-}
-
 
 
 
