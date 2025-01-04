@@ -6,8 +6,13 @@ body {
     background-color:rgba(123, 238, 232, 0.521);
 }
 
+.baslıkstili {
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+
 .renkli {
-    background-color:rgb(116, 116, 193);
+    background-color:rgb(120, 174, 255);
 }
 
 .ortada {
