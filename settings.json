@@ -1,3 +1,14 @@
 {
-    "livePreview.defaultPreviewPath": "/html"
+    "workbench.colorTheme": "Solarized Dark",
+    "livePreview.notifyOnOpenLooseFile": false,
+    "workbench.editorAssociations": {
+        "*.zip": "default"
+    },
+    "window.newWindowProfile": "Default",
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "git.autofetch": true,
+    "liveServer.settings.UseBrowserPreview": true,
+    "livePreview.port": 5500
 }

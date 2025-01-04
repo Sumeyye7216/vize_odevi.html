@@ -7,7 +7,7 @@ body {
 }
 
 .renkli {
-    background-color: #f5ba6e64;
+    background-color:rgb(116, 116, 193);
 }
 
 .ortada {
@@ -42,8 +42,8 @@ h1 {
 }
  
 
-.mavi {
-    color:blue
+.renkliparagraf {
+    color:#f20962
 }
 
 
