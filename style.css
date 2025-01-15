@@ -1,52 +1,54 @@
+    /*Gövde stilini belirler*/ 
 body {
-    font-family:'Times New Roman', Times, serif;
-    line-height: 1.5;
-    margin: 20;
-    padding: 10;
-    background-color:rgba(123, 238, 232, 0.521);
+    font-family:'Times New Roman', Times, serif;  /*HTML elemanının içeriği ile kenarları arasındaki boşluğu ayarlamak için kullanılır*/
+    line-height: 1.5; /*Metnin satır yüksekliğini ayarlar*/ 
+    margin: 20; /*Dış boşluğu belirler*/ 
+    padding: 10; /*  HTML elemanının içeriği ile kenarları arasındaki boşluğu ayarlamak için kullanılır */
+    background-color:rgba(123, 200, 238, 0.521); /* Sayfa rengini belirler */
 }
-
+    /* Başlık Stili için kullanılır */
 .baslıkstili {
         font-family:Georgia, 'Times New Roman', Times, serif;
         text-align: center;
     }
-
+    /* Arka plan rengini ayarlar */
 .renkli {
     background-color:rgb(120, 174, 255);
 }
-
+    /* Metin Ortalamak için yapılır */
 .ortada {
     text-align: center; 
 }
-
+    /* Metin Sola Hizalamak için yapılır */
 .kenarda {
     text-align: left;
 }    
-
+    /* H1 Başlık Rengi verir */
 h1 {
     color: rgb(34, 34, 129)
 }
+ /* Mor Başlık */
 .purple-title {
     color:purple;
     font-size:x-large;
     font-style:normal;
 }
-
+    /* Kırmızı Renkli Metin */
 .kırmızı {
     color: red;
     margin:20px;
 }
-
+    /* Kalın ve İtalik Yazı için kullanılır */
 .ozel-stil {
     font-weight: bold;
     font-style: italic; 
 }
-
+    /* Konteyner Ortalamak için kullanılır */
 .container {
     text-align: center;
 }
  
-
+    /* Renkli Paragraf oluşturmayı sağlar */
 .renkliparagraf {
     color:#f20962
 }
